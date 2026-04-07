@@ -15,7 +15,7 @@
 
 1     5V 4 Channel Relay Module with light coupling
 
-4     3V-6V Small DC Motor
+4     9V Small DC Motor
 
 1     40Pcs M/F Dupont Wire Jumper Cables 40 cm
 
@@ -58,6 +58,8 @@
 1       Waveshare Polysilicon Solar Panel (18V 10W), Photovoltaic Panel
 
 2      SS-5GL2 Microswitch Hinge Roller Lever SPDT 3Pin Subminiature Basic Limit Switch
+
+3      9V 2A LM7809
 
 1      κόντρα πλακέ  30χ30 , βίδες, κόλα.
 
