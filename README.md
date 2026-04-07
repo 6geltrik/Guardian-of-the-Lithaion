@@ -60,9 +60,10 @@
 3      9V 2A LM7809
 
 1      κόντρα πλακέ  30χ30 , βίδες, κόλα.
-<img src = image/diagrama.jpg width = 800>
+
 
 # ΚΑΤΑΣΚΕΥΗ
+<img src = image/diagrama.jpg width = 800>
 
 Ξεκινήσαμε την κατασκευή με την τοποθέτηση του arduino Mega και το Γυροσκόπιο πάνω στο κόντρα πλακέ
 
