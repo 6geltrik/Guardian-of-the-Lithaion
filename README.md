@@ -53,8 +53,6 @@
 
 1       Voltage Sensor Module For Robot Arduino
 
-1       JSN-SR04T Ultrasonic Distance Measuring Sensor – Waterproof
-
 1       Waveshare Polysilicon Solar Panel (18V 10W), Photovoltaic Panel
 
 2      SS-5GL2 Microswitch Hinge Roller Lever SPDT 3Pin Subminiature Basic Limit Switch
