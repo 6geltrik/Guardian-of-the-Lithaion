@@ -37,8 +37,6 @@
 
 4      GL5516 Light Dependent Resistor LDR 5MM
 
-1      LM317 Voltage Regulator LM317T
-
 1      MPU-6050 3-Axis Gyroscope+Accelerometer
 
 1      NodeMcu Lua CH340G ESP8266 WIFI
@@ -57,7 +55,9 @@
 
 2      SS-5GL2 Microswitch Hinge Roller Lever SPDT 3Pin Subminiature Basic Limit Switch
 
-3      9V 2A LM7809
+2      9V 2A LM7809 Linear Voltage Regulator
+
+1      3,3V Linear Voltage Regulator
 
 1      κόντρα πλακέ  30χ30 , βίδες, κόλα.
 
