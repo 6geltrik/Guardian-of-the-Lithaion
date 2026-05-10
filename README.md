@@ -97,3 +97,4 @@
 
 <img src = image/metrisi.jpg width = 800>
 
+Παρουσίαση κατασκευής και video στο youtub https://youtu.be/RrWrZYbElGo
